@@ -28,7 +28,7 @@ I design, configure, and deliver enterprise insurance platform solutions with a 
 
 | Area | Details |
 | --- | --- |
-| **ClaimCenter** | FNOL configuration, claim lifecycle workflows, exposure management, activity patterns, loss reserves |
+| **ClaimCenter** | FNOL configuration, claim lifecycle workflows, exposure management, activity patterns, reserves, payments |
 | **PolicyCenter** | Policy lines, product model configuration, rating, submission workflows, account management |
 | **Digital Portal** | Policyholder self-service portal, vendor portal, integration with ClaimCenter and PolicyCenter |
 | **Integration Framework** | REST/SOAP integrations, message destinations, plugin registry, third-party system connectivity |
